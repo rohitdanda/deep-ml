@@ -2,11 +2,17 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**2** solved · 0 problems · 0 labs · 2 math
+**3** solved · 1 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
 [**Browse the interactive portfolio**](https://rohitdanda.github.io/deep-ml/) to replay this filling in over time.
+
+## Problems
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Embedding Layer as One-Hot Matrix Multiplication](https://www.deep-ml.com/problems/947) | easy | 2026-09-22 | [solution](problems/0947-embedding-layer-as-one-hot-matrix-multiplication) |
 
 ## Math
 
